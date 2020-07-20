@@ -12,4 +12,4 @@ CREATE TABLE urlstyle (
   UNIQUE KEY id (id)
 );
 
-INSERT INTO urlstyle VALUES (1, '≤‚ ‘∑÷¿‡');
+INSERT INTO urlstyle VALUES (1, 'category');
